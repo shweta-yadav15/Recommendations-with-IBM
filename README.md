@@ -2,7 +2,7 @@
 
 ## Motivation 
 
-IBM has an online data science community where members can post tutorials, notebooks, articles, and datasets. For this project I will analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles you think they will like. 
+IBM has an online data science community where members can post tutorials, notebooks, articles, and datasets. For this project I will be  analyzing the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles you think they will like. 
 
 ## I. Exploratory Data Analysis
 
